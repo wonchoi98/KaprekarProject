@@ -1,6 +1,13 @@
+/**
+ *Author: Gomer
+ *Date: Unknown
+ *Reviser: Won Choi
+ *Revised date: January 21, 2018
+ *
+ *This program will tell the user if the value they put in is a Kaprekar number or not.
+ */
 #include<stdlib.h>
 #include<stdio.h>
-
 #include "kaprekarUtils.h"
 
 int main(int argc, char **argv) {
